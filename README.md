@@ -14,6 +14,7 @@ $ git clone https://github.com/EsanAhmedAbir/OldCrack
 
 $ cd OldCrack
 
-$ python oldcrack
+$ bash install.sh
+
 
 
