@@ -1,0 +1,8 @@
+import os, sys, random
+
+for n in range(30000):
+    nmbr = random.randint(1111111111, 9999999999)
+    sys.stdout = open('idscode.txt', 'a')
+    print(nmbr)
+    sys.stdout.flush()
+  
